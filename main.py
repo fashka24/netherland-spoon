@@ -1,4 +1,4 @@
-# hate netherlands ip))
+# (anti-hate) netherlands ip checker
 # ]OXCBRawkURpo74P
 
 from fnmatch import fnmatch
